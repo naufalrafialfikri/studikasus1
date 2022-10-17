@@ -1,0 +1,8 @@
+img {
+	background-image: url(blackgoose.png);
+	border-image-width: 20pt;
+	display: block;
+	margin: auto ;
+	margin-top: 1cm;
+	margin-bottom: 0cm;
+}
